@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+## My Favorite Animes
+* Fullmetal Alchemist : Brotherhood :heart:
+* Death Note :pencil2:
+* My Hero Academia :alien:
