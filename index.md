@@ -20,6 +20,3 @@ layout: default
 
 {% include 05-emphasis.md %}
 
-<br>
-
-{% include 06-deneme.md %}
